@@ -115,7 +115,6 @@ life_motto: "Build. Break. Learn. Repeat."
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dem9x&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=Dem9x&show_icons=true&theme=radical"/>
 </div>
 
@@ -124,9 +123,7 @@ life_motto: "Build. Break. Learn. Repeat."
 # 🔥 CONTRIBUTION STREAK
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Dem9x&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
