@@ -111,34 +111,13 @@ life_motto: "Build. Break. Learn. Repeat."
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Dem9x&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dem9x&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dem9x&theme=tokyonight"/>
 
 ---
-
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dem9x&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 # 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Dem9x/Dem9x/output/snake.svg" alt="Snake animation" />
-
 </div>
 
 ---
