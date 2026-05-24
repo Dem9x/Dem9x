@@ -79,21 +79,19 @@ life_motto: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
+<div align="center">
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-050816?style=for-the-badge&logo=openai&logoColor=white)
-
 ![Solana](https://img.shields.io/badge/Solana-050816?style=for-the-badge&logo=solana&logoColor=00ffcc)
-
 ![Web3.js](https://img.shields.io/badge/Web3.js-050816?style=for-the-badge&logo=web3dotjs&logoColor=F16822)
-
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-050816?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-050816?style=for-the-badge&logo=mongodb&logoColor=00ED64)
-
 ![Docker](https://img.shields.io/badge/Docker-050816?style=for-the-badge&logo=docker&logoColor=2496ED)
-
 ![Firebase](https://img.shields.io/badge/Firebase-050816?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
 ![Vercel](https://img.shields.io/badge/Vercel-050816?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 </div>
 
