@@ -12,10 +12,10 @@
 
 <br>
 
-<img 
+<!-- <img 
   src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-iwakura.gif"
   width="60%"
-/>
+/> -->
 
 </div>
 
