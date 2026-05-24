@@ -127,7 +127,11 @@ life_motto: "Build. Break. Learn. Repeat."
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dem9x&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Dem9x&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dem9x&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
