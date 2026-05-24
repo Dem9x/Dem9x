@@ -12,7 +12,10 @@
 
 <br>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-iwakura.gif" width="300"/>
+<img 
+  src="https://media.tenor.com/DimzPZMypFcAAAAd/lain-iwakura.gif"
+  width="60%"
+/>
 
 </div>
 
