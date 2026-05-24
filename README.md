@@ -137,7 +137,9 @@ src="https://streak-stats.demolab.com?user=Dem9x&theme=tokyonight&hide_border=tr
 # 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Dem9x/Dem9x/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/Dem9x/Dem9x/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 ---
